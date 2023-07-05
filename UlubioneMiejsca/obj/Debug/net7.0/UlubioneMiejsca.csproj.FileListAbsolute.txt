@@ -74,3 +74,4 @@ C:\Users\Franek\source\repos\UlubioneMiejsca\UlubioneMiejsca\obj\Debug\net7.0\re
 C:\Users\Franek\source\repos\UlubioneMiejsca\UlubioneMiejsca\obj\Debug\net7.0\UlubioneMiejsca.pdb
 C:\Users\Franek\source\repos\UlubioneMiejsca\UlubioneMiejsca\obj\Debug\net7.0\UlubioneMiejsca.genruntimeconfig.cache
 C:\Users\Franek\source\repos\UlubioneMiejsca\UlubioneMiejsca\obj\Debug\net7.0\ref\UlubioneMiejsca.dll
+C:\Users\Franek\source\repos\UlubioneMiejsca\UlubioneMiejsca\bin\Debug\net7.0\BCrypt.Net-Core.dll

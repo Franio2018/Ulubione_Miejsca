@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fsHODTHXgWXO4l2h3Zwqv+6ApG0unX/LzUMZqZJAdp881D4N/U2xIL6UHmHQ38+hZ5Srom8scj3xaftMMvULng==",
+  "dgSpecHash": "UeWrWzrpXJqpPjoxTp4dwGo14/xb6b1n2gse93xlWNCrc/vIwtYdImL2a7sxFHHbv7PyjKcUueBuLOW4Se9YKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Franek\\source\\repos\\UlubioneMiejsca\\UlubioneMiejsca\\UlubioneMiejsca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Franek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Franek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Franek\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\Franek\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Franek\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Franek\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
